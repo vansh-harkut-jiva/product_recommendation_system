@@ -1,0 +1,51 @@
+User_ID,Product_ID,Title,Description,Category,Rating,Purchase_Frequency,Last_Purchase_Date,Price,Dimensions,Color,Size,Weight
+101,2001,Running Shoes,Lightweight and comfortable shoes for jogging.,Sports,4.5,15,2024-03-01,120,30x10x12 cm,Blue,Universal,250g
+102,2002,Wireless Earbuds,Noise-cancelling earbuds with high-quality sound.,Electronics,4.3,20,2024-02-25,60,5x2x3 cm,Black,Compact,50g
+103,2003,Laptop Backpack,Spacious backpack with multiple compartments.,Accessories,4.7,12,2024-03-05,45,40x30x10 cm,Grey,Large,800g
+104,2004,Smartphone,Latest 5G smartphone with high-resolution display.,Electronics,4.6,25,2024-02-28,799,15x7x0.8 cm,Silver,Medium,180g
+105,2005,Gaming Mouse,Ergonomic gaming mouse with customizable buttons.,Electronics,4.4,18,2024-03-03,30,12x7x4 cm,Red,Standard,100g
+106,2006,Bluetooth Speaker,Portable wireless speaker with deep bass.,Electronics,4.2,22,2024-02-26,50,8x8x8 cm,White,Portable,350g
+107,2007,Yoga Mat,Eco-friendly yoga mat with non-slip surface.,Sports,4.8,10,2024-03-06,25,180x60x0.5 cm,Green,Large,2kg
+108,2008,Coffee Maker,Advanced coffee maker with programmable settings.,Home Appliances,4.1,14,2024-02-27,90,30x20x25 cm,Black,Medium,1.5kg
+109,2009,Mechanical Keyboard,RGB mechanical keyboard for gaming and work.,Electronics,4.6,19,2024-03-04,70,45x15x5 cm,RGB,Full-size,900g
+110,2010,Fitness Tracker,Smart fitness tracker with heart rate monitor.,Health & Fitness,4.5,16,2024-02-29,55,10x5x1 cm,Blue,Adjustable,200g
+111,2011,Hiking Boots,Waterproof boots with advanced traction for outdoor adventures.,Sports,4.7,8,2024-03-07,150,35x15x15 cm,Brown,Large,700g
+112,2012,Noise-Cancelling Headphones,Premium over-ear headphones with 40-hour battery life.,Electronics,4.9,17,2024-03-02,199,20x10x5 cm,Silver,Over-ear,300g
+113,2013,Smart Home Security Camera,AI-powered camera with night vision and mobile alerts.,Home Security,4.6,11,2024-03-08,129,10x7x7 cm,White,Compact,250g
+114,2014,Portable Power Station,High-capacity power bank for outdoor and emergency use.,Electronics,4.4,6,2024-03-09,299,40x25x20 cm,Grey,Large,5kg
+115,2015,Electric Toothbrush,Sonic cleaning technology with multiple brushing modes.,Personal Care,4.5,22,2024-02-24,79,25x5x5 cm,Blue,Standard,200g
+116,2016,Resistance Bands Set,Professional-grade exercise bands for strength training.,Sports,4.7,14,2024-03-10,35,30x20x5 cm,Multicolor,Universal,500g
+117,2017,Smart Watch,Advanced fitness and health tracking smartwatch.,Health & Fitness,4.6,20,2024-02-23,199,4x4x1 cm,Black,Adjustable,80g
+118,2018,Dutch Oven,Cast iron cookware with enameled exterior.,Kitchen Appliances,4.8,9,2024-03-11,89,30x25x15 cm,Red,Large,5.5kg
+119,2019,Wireless Charging Pad,Fast charging station for multiple devices.,Electronics,4.3,25,2024-02-22,49,10x10x1 cm,Black,Compact,100g
+120,2020,Camping Tent,4-person waterproof tent with easy setup.,Outdoor Gear,4.5,7,2024-03-12,199,250x220x180 cm,Green,Large,3.5kg
+121,2021,Robot Vacuum Cleaner,Smart navigation with app control and scheduling.,Home Appliances,4.4,13,2024-02-21,249,35x35x10 cm,White,Medium,3kg
+122,2022,Running Shorts,Moisture-wicking athletic shorts for high-intensity workouts.,Sports,4.6,16,2024-03-13,40,40x20x2 cm,Black,Medium,150g
+123,2023,Kindle Paperwhite,E-reader with adjustable warm light and waterproof design.,Electronics,4.7,18,2024-02-20,139,16x11x0.8 cm,Black,Compact,200g
+124,2024,Essential Oil Diffuser,Aromatherapy device with LED color changing lights.,Home Decor,4.5,12,2024-03-14,45,15x15x15 cm,Wood Grain,Medium,500g
+125,2025,Outdoor Grill,Portable propane grill with multiple cooking zones.,Kitchen Appliances,4.6,8,2024-03-15,299,120x60x100 cm,Stainless Steel,Large,25kg
+126,2026,Digital Drawing Tablet,Graphic tablet with pressure-sensitive pen.,Electronics,4.7,15,2024-03-16,180,30x20x1 cm,Black,Medium,600g
+127,2027,Noise Reduction Earplugs,Comfortable earplugs for sleeping and travel.,Personal Care,4.5,10,2024-03-17,20,2x1x1 cm,Transparent,Small,10g
+128,2028,Smart Light Bulbs,WiFi-enabled LED bulbs with voice control.,Home Automation,4.6,20,2024-03-18,30,6x6x12 cm,Multicolor,Standard,200g
+129,2029,Adjustable Standing Desk,Height-adjustable desk for ergonomic work setup.,Office Furniture,4.8,8,2024-03-19,299,120x60x75 cm,White,Large,20kg
+130,2030,Waterproof Hiking Jacket,Breathable and lightweight outdoor jacket.,Sportswear,4.6,9,2024-03-20,90,60x40x10 cm,Blue,Large,700g
+131,2031,Home Gym Equipment Set,Complete fitness set including weights and resistance bands.,Health & Fitness,4.7,14,2024-03-21,250,100x50x30 cm,Black,Varied,10kg
+132,2032,Pet GPS Tracker,Real-time location tracking for pets with mobile alerts.,Pet Accessories,4.5,12,2024-03-22,79,5x3x2 cm,White,Small,80g
+133,2033,Electric Scooter,Foldable commuter scooter with long battery life.,Transportation,4.6,7,2024-03-23,499,110x45x50 cm,Black,Standard,12kg
+134,2034,Mini Projector,Portable projector with 1080p HD resolution.,Electronics,4.4,16,2024-03-24,160,12x10x8 cm,White,Compact,1.2kg
+135,2035,Luxury Memory Foam Pillow,Orthopedic pillow for neck and back support.,Home Essentials,4.8,9,2024-03-25,55,60x40x15 cm,White,Standard,1.5kg
+136,2036,Smart Thermostat,Energy-saving device with remote control via app.,Home Automation,4.7,6,2024-03-26,180,10x10x2 cm,Grey,Compact,400g
+137,2037,Air Purifier,HEPA air filtration for allergies and dust removal.,Home Appliances,4.6,11,2024-03-27,250,35x25x25 cm,White,Medium,3kg
+138,2038,Ultrasonic Jewelry Cleaner,Professional-grade cleaning for rings and watches.,Personal Care,4.5,10,2024-03-28,75,20x10x10 cm,Silver,Standard,1kg
+139,2039,Camping Sleeping Bag,Four-season insulated sleeping bag for outdoor camping.,Outdoor Gear,4.6,8,2024-03-29,89,220x80x5 cm,Green,Large,2.5kg
+140,2040,Digital Kitchen Scale,Precision weighing scale for cooking and baking.,Kitchen Appliances,4.7,18,2024-03-30,35,15x10x3 cm,Silver,Compact,500g
+141,2041,High-Speed Blender,Powerful blender for smoothies and soups.,Kitchen Appliances,4.6,13,2024-03-31,199,40x20x30 cm,Black,Large,4kg
+142,2042,Wireless Doorbell,Smart doorbell with camera and two-way audio.,Home Security,4.5,7,2024-04-01,120,8x5x2 cm,Silver,Compact,300g
+143,2043,VR Headset,Virtual reality headset with 360-degree immersion.,Electronics,4.8,9,2024-04-02,299,25x20x15 cm,Black,Standard,1kg
+144,2044,Smart Refrigerator,WiFi-enabled fridge with touchscreen and AI features.,Home Appliances,4.7,5,2024-04-03,1500,180x70x80 cm,Stainless Steel,Large,80kg
+145,2045,Premium Beard Trimmer,Precision grooming tool with adjustable length settings.,Personal Care,4.6,12,2024-04-04,70,18x5x5 cm,Black,Compact,400g
+146,2046,Smart Car Dash Cam,HD recording with night vision and AI-assisted driving alerts.,Automotive,4.7,10,2024-04-05,150,10x6x4 cm,Black,Compact,250g
+147,2047,Foldable Electric Bike,Lightweight e-bike for urban commuting.,Transportation,4.5,6,2024-04-06,899,140x60x100 cm,Grey,Standard,18kg
+148,2048,LED Desk Lamp,Adjustable brightness with eye protection technology.,Office Essentials,4.6,15,2024-04-07,45,40x20x10 cm,White,Standard,1.2kg
+149,2049,Smart Mirror,AI-powered mirror with touch display and fitness tracking.,Home Automation,4.7,7,2024-04-08,350,120x60x5 cm,Silver,Large,15kg
+150,2050,Wireless Mechanical Keyboard,Bluetooth-enabled gaming keyboard with customizable RGB lighting.,Electronics,4.8,14,2024-04-09,130,45x15x5 cm,Black,Full-size,900g

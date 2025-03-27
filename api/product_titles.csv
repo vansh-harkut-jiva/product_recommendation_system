@@ -1,0 +1,101 @@
+Product_ID,Title,Category,Brand,Price
+1,Classic Running Shoes,Footwear,Nike,89.99
+2,Wireless Noise-Canceling Headphones,Electronics,Sony,199.99
+3,Ultralight Running Jacket,Apparel,Nike,129.99
+4,Smartwatch Series 5,Wearables,Apple,299.99
+5,Fitness Tracker Pro,Wearables,Adidas,129.99
+6,Bluetooth Speakers XL,Electronics,Bose,249.99
+7,Laptop Pro 13-inch,Computers,Apple,1299.99
+8,Gaming Mouse RGB,Electronics,Razer,79.99
+9,Compression Leggings,Apparel,Under Armour,89.99
+10,4K Smart TV 55-inch,Electronics,Samsung,599.99
+11,Wireless Earbuds Pro,Electronics,Beats,249.99
+12,Performance Training Shorts,Apparel,Nike,54.99
+13,Desktop Computer Tower,Computers,Dell,799.99
+14,High-Performance Sneakers,Footwear,Adidas,129.99
+15,Smartphone X Pro,Electronics,Apple,999.99
+16,Noise-Canceling Headset,Electronics,LG,179.99
+17,Winter Running Jacket,Apparel,Under Armour,149.99
+18,Tablet Pro,Computers,Microsoft,699.99
+19,Wireless Sport Earphones,Electronics,Sony,129.99
+20,Running Compression Socks,Apparel,Adidas,39.99
+21,LED Smart Monitor,Electronics,Samsung,349.99
+22,Lightweight Running Shorts,Apparel,Nike,44.99
+23,Fitness Smartwatch,Wearables,Beats,199.99
+24,Ergonomic Gaming Chair,Furniture,HP,299.99
+25,Wireless Charging Pad,Electronics,Apple,79.99
+26,Professional Camera,Electronics,Sony,899.99
+27,Trail Running Shoes,Footwear,Under Armour,119.99
+28,Portable Bluetooth Speaker,Electronics,Bose,199.99
+29,Slim Laptop,Computers,LG,999.99
+30,Performance T-Shirt,Apparel,Nike,49.99
+31,4K Action Camera,Electronics,GoPro,299.99
+32,Running Cap,Apparel,Adidas,34.99
+33,Home Theater System,Electronics,Samsung,499.99
+34,Hiking Backpack,Outdoor Gear,Nike,129.99
+35,Wireless Gaming Mouse,Electronics,Razer,89.99
+36,Athletic Compression Shirt,Apparel,Under Armour,64.99
+37,Smart Home Hub,Electronics,Apple,199.99
+38,Running Water Bottle,Outdoor Gear,Adidas,29.99
+39,Gaming Laptop,Computers,Dell,1499.99
+40,Wireless Earbuds,Electronics,LG,149.99
+41,Marathon Training Shoes,Footwear,Adidas,159.99
+42,Portable External SSD,Electronics,Samsung,199.99
+43,Fitness Yoga Mat,Fitness,Nike,59.99
+44,High-End Soundbar,Electronics,Bose,399.99
+45,Tablet Keyboard Cover,Accessories,Microsoft,99.99
+46,Performance Compression Pants,Apparel,Under Armour,79.99
+47,4K Drone,Electronics,DJI,999.99
+48,Sports Nutrition Supplement,Health,Optimum Nutrition,49.99
+49,Wireless Charging Station,Electronics,Apple,129.99
+50,Professional Running Shorts,Apparel,Nike,69.99
+51,Gaming Headset,Electronics,Sony,199.99
+52,Mountain Bike,Sports Equipment,Trek,599.99
+53,Waterproof Sports Watch,Wearables,Garmin,249.99
+54,Noise-Canceling Earbuds,Electronics,Beats,199.99
+55,Thermal Running Tights,Apparel,Adidas,89.99
+56,Smart Home Security Camera,Electronics,Ring,199.99
+57,Resistance Training Set,Fitness,TRX,129.99
+58,Wireless Router,Electronics,Netgear,129.99
+59,Performance Windbreaker,Apparel,Under Armour,99.99
+60,Portable Projector,Electronics,LG,349.99
+61,Running GPS Watch,Wearables,Garmin,299.99
+62,Home Gym Equipment Set,Fitness,Bowflex,799.99
+63,Ultra-Thin Laptop,Computers,HP,1099.99
+64,Professional Camera Lens,Photography,Canon,799.99
+65,Hiking Boots,Outdoor Gear,Merrell,189.99
+66,Smart Fitness Mirror,Fitness,Tonal,1495.00
+67,Wireless Keyboard,Accessories,Logitech,99.99
+68,Performance Cycling Jersey,Apparel,Nike,79.99
+69,4K Monitor,Electronics,Dell,599.99
+70,Portable Power Station,Electronics,Anker,299.99
+71,Marathon Training Program,Digital,Strava,49.99
+72,Compression Recovery Socks,Apparel,CEP,54.99
+73,Smart Bike Computer,Electronics,Garmin,299.99
+74,Wireless Gaming Keyboard,Electronics,Razer,159.99
+75,Fitness Tracking Scale,Health,Fitbit,129.99
+76,Professional Yoga Mat,Fitness,Manduka,119.99
+77,Action Sports Camera,Electronics,GoPro,199.99
+78,Trail Running Hydration Pack,Outdoor Gear,CamelBak,89.99
+79,Smart Glasses,Wearables,Ray-Ban,299.99
+80,Performance Weightlifting Gloves,Fitness,Nike,44.99
+81,Noise-Canceling Studio Headphones,Electronics,Bose,399.99
+82,Portable Bluetooth Speaker,Electronics,JBL,129.99
+83,Professional Video Editing Software,Digital,Adobe,299.99
+84,Wireless Charging Powerbank,Electronics,Anker,79.99
+85,Running Performance Analyzer,Electronics,Garmin,199.99
+86,Smart Home Thermostat,Electronics,Nest,249.99
+87,Professional Running Shoes,Footwear,Asics,159.99
+88,4K Streaming Device,Electronics,Roku,79.99
+89,Fitness Nutrition Blender,Kitchen,Ninja,129.99
+90,Wireless Security System,Electronics,Ring,499.99
+91,Performance Running Belt,Apparel,FlipBelt,34.99
+92,Smart Massage Gun,Fitness,Theragun,399.00
+93,Portable Laptop Stand,Accessories,Twelve South,79.99
+94,Professional Cycling Shorts,Apparel,Pearl Izumi,99.99
+95,Wireless Noise-Canceling Earphones,Electronics,Sony,249.99
+96,Smart Home Speaker,Electronics,Amazon,99.99
+97,Performance Recovery Cream,Health,Muscle Mx,29.99
+98,Professional Camera Tripod,Photography,Manfrotto,299.99
+99,Running Performance Headband,Apparel,Under Armour,24.99
+100,4K Smart Home Display,Electronics,Google,199.99
