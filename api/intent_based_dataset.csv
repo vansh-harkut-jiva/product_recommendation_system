@@ -1,4 +1,4 @@
-User_ID,Search_Queries,Clicked_Products,Time_Spent_on_Clicked_Products (sec),Add_to_Cart,Wishlist,Abandoned_Cart,Browsing_Categories,Filters_Used,Depth_of_Search,Recent_Activity,Session_Frequency,Session_Recency,Past_Purchases,Engagement_Level,User_Type,Customer_Lifecycle,Mouse_Hesitation_Time (sec)
+User_ID,Search_Queries,Clicked_Products,Time_Spent_on_Clicked_Products (sec),Add_to_Cart,Wishlist,Abandoned_Cart,Browsed_Categories,Filters_Used,Depth_of_Search,Recent_Activity,Session_Frequency,Session_Recency,Past_Purchases,Engagement_Level,User_Type,Customer_Lifecycle,Mouse_Hesitation_Time (sec)
 101,"wireless earbuds","Earbuds Pro, Bass Boost 300","120, 95",1,0,0,"Electronics, Audio","Brand: XYZ, Price < $50",3,"Clicked Product",5,2,"Earbuds 200","High","Returning","Loyal",4
 102,"gaming laptop","Gaming X200, UltraFast Z","300, 180",0,1,1,"Computers, Gaming","Processor: i7, RAM > 16GB",4,"Viewed Category",3,5,"None","Medium","New","First-time",6
 103,"men's running shoes","Nike Air Zoom, Adidas RunX","140, 160",1,0,1,"Footwear, Sports","Size: 10, Color: Black",5,"Added to Cart",4,1,"Running Shoes 2023","High","Returning","Loyal",3
