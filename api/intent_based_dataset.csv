@@ -1,0 +1,26 @@
+User_ID,Search_Queries,Clicked_Products,Time_Spent_on_Clicked_Products (sec),Add_to_Cart,Wishlist,Abandoned_Cart,Browsing_Categories,Filters_Used,Depth_of_Search,Recent_Activity,Session_Frequency,Session_Recency,Past_Purchases,Engagement_Level,User_Type,Customer_Lifecycle,Mouse_Hesitation_Time (sec)
+101,"wireless earbuds","Earbuds Pro, Bass Boost 300","120, 95",1,0,0,"Electronics, Audio","Brand: XYZ, Price < $50",3,"Clicked Product",5,2,"Earbuds 200","High","Returning","Loyal",4
+102,"gaming laptop","Gaming X200, UltraFast Z","300, 180",0,1,1,"Computers, Gaming","Processor: i7, RAM > 16GB",4,"Viewed Category",3,5,"None","Medium","New","First-time",6
+103,"men's running shoes","Nike Air Zoom, Adidas RunX","140, 160",1,0,1,"Footwear, Sports","Size: 10, Color: Black",5,"Added to Cart",4,1,"Running Shoes 2023","High","Returning","Loyal",3
+104,"kitchen blender","NutriMax 500, SmoothiePro","90, 85",0,1,0,"Home & Kitchen","Power > 500W, Price < $100",2,"Clicked Product",2,3,"Blender 300","Low","New","Churn-risk",8
+105,"smartphone deals","Galaxy S21, iPhone 13","250, 200",1,0,0,"Mobiles","Storage > 128GB, Price Drop",4,"Checked Offers",6,2,"iPhone 12","High","Returning","Loyal",2
+106,"yoga mat","EcoGrip Mat, FitnessFlow","80, 95",0,1,1,"Fitness, Accessories","Thickness > 6mm, Color: Green",3,"Browsed Category",3,4,"Yoga Mat 2021","Medium","Returning","Churn-risk",5
+107,"headphones","Sony Noise Canceling, Bose Comfort","200, 175",1,0,0,"Electronics, Audio","Noise Cancelling, Wireless",4,"Clicked Product",5,2,"Bose Headphones","High","Returning","Loyal",3
+108,"office chair","ErgoMax Pro, ComfortSeat","130, 110",0,0,1,"Furniture, Office","Adjustable, Lumbar Support",3,"Browsed Category",2,5,"None","Low","New","First-time",7
+109,"women's dresses","Summer Floral Maxi, Evening Cocktail","160, 120",1,1,0,"Women's Fashion, Dresses","Size: M, Season: Summer",5,"Added to Wishlist",4,2,"Winter Dress 2023","High","Returning","Loyal",2
+110,"coffee maker","BrewMaster 3000, Espresso Deluxe","140, 180",1,0,0,"Kitchen Appliances, Coffee","Programmable, Capacity > 10 cups",4,"Added to Cart",3,3,"Coffee Grinder","Medium","Returning","Loyal",4
+111,"tablet case","SlimFit Pro, ShockProof Guard","70, 85",0,1,0,"Accessories, Electronics","Compatible: iPad, Material: Leather",2,"Clicked Product",2,4,"None","Low","New","First-time",9
+112,"beard trimmer","PrecisionCut X, ManGroomer Pro","110, 95",1,0,0,"Men's Grooming, Personal Care","Cordless, Runtime > 60 min",3,"Added to Cart",5,1,"Electric Razor 2022","High","Returning","Loyal",3
+113,"hiking boots","TrailMaster Extreme, OutdoorPro X","190, 145",0,0,1,"Footwear, Outdoor","Waterproof, Size: 9",4,"Browsed Category",3,2,"Hiking Socks","Medium","Returning","At-risk",5
+114,"digital camera","Canon PowerShot, Sony Alpha","230, 260",0,1,0,"Electronics, Photography","Megapixels > 20, Zoom > 10x",5,"Added to Wishlist",4,3,"Camera Tripod","High","Returning","Loyal",3
+115,"winter jacket","North Face Alpine, Columbia Timber","175, 190",1,0,0,"Clothing, Outdoor Gear","Size: L, Insulation: Down",3,"Clicked Product",6,1,"Gloves Set","High","Returning","Loyal",2
+116,"smart watch","Fitbit Versa, Apple Watch SE","210, 280",0,1,1,"Wearables, Electronics","Heart Rate Monitor, Water Resistant",4,"Viewed Features",5,2,"Fitness Tracker","Medium","Returning","Loyal",4
+117,"dog toys","ChewMaster Bone, SqueekyFriend","60, 45",1,0,0,"Pet Supplies, Dog Accessories","Material: Non-toxic, Size: Medium",2,"Added to Cart",3,3,"Dog Food Premium","Medium","Returning","Loyal",3
+118,"laptop backpack","TechCarry Pro, BusinessElite","100, 85",0,1,0,"Bags, Office Supplies","Waterproof, Laptop Size > 15"",3,"Clicked Product",2,5,"None","Low","New","First-time",6
+119,"air fryer","HealthCook XL, CrispyAir Pro","150, 125",1,0,0,"Kitchen Appliances, Cooking","Capacity > 5L, Digital Controls",4,"Added to Cart",4,2,"Slow Cooker","High","Returning","Loyal",3
+120,"wireless mouse","ErgoGlide Pro, LogiTech MX","70, 95",0,0,1,"Computer Peripherals, Office","Ergonomic, Battery Life > 6 months",3,"Browsed Category",5,1,"Keyboard Mechanical","Medium","Returning","At-risk",5
+121,"plant pots","TerraCotta Large, BohoDesign Set","80, 65",1,1,0,"Home & Garden, Planters","Material: Ceramic, Size: Medium",2,"Added to Wishlist",3,3,"Plant Fertilizer","Medium","Returning","Loyal",4
+122,"sunglasses","Ray-Ban Aviator, Oakley Prizm","130, 150",0,1,0,"Fashion Accessories, Eyewear","UV Protection, Style: Polarized",4,"Clicked Product",4,2,"Hat Summer","High","Returning","Loyal",2
+123,"protein powder","WheyIsolate Pro, PlantBased Complete","95, 110",1,0,0,"Health & Nutrition, Supplements","Type: Whey, Flavor: Chocolate",3,"Added to Cart",6,1,"Pre-workout Mix","High","Returning","Loyal",3
+124,"bluetooth speaker","JBL Flip, Bose SoundLink","135, 160",0,0,1,"Electronics, Audio","Waterproof, Battery > 12 hrs",5,"Viewed Features",3,4,"None","Medium","New","First-time",5
+125,"shower curtain","Botanical Print, Modern Minimalist","55, 40",1,0,0,"Home Decor, Bathroom","Material: Polyester, Size: Standard",2,"Added to Cart",2,3,"Bath Mat Set","Low","Returning","At-risk",4
