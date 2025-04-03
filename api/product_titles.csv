@@ -1,4 +1,4 @@
-Product_ID,Title,Category,Brand,Price
+product_id,title,category,brand,price
 1,Classic Running Shoes,Footwear,Nike,89.99
 2,Wireless Noise-Canceling Headphones,Electronics,Sony,199.99
 3,Ultralight Running Jacket,Apparel,Nike,129.99

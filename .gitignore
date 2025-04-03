@@ -1,0 +1,16 @@
+# Ignore environment files
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore virtual environment directories
+venv/
+env/
+*.egg-info/
+
+# Ignore logs and temporary files
+*.log
+*.tmp

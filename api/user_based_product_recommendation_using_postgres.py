@@ -2,19 +2,68 @@ from fastapi import FastAPI, HTTPException
 import pandas as pd
 import numpy as np
 from sklearn.metrics.pairwise import cosine_similarity
+from sqlalchemy import create_engine
+from dotenv import load_dotenv
+import os
+
+# Load environment variables from .env file
+load_dotenv()
 
 # Initialize FastAPI app
 app = FastAPI()
 
-# Load user-based collaborative filtering dataset
-df = pd.read_csv("sample_ubcf_dataset.csv")
-product_titles_df = pd.read_csv("product_titles.csv")  # Separate dataset for product details
+# Function to establish a database connection using SQLAlchemy
+def get_db_connection():
+    try:
+        engine = create_engine(f"postgresql+psycopg2://{os.getenv('DB_USER')}:{os.getenv('DB_PASSWORD')}@{os.getenv('DB_HOST')}:{os.getenv('DB_PORT')}/{os.getenv('DB_NAME')}")
+        return engine
+    except Exception as e:
+        print("Error connecting to the database:", e)
+        raise
+
+# Load user-based collaborative filtering dataset from PostgreSQL
+engine = get_db_connection()
+
+# Load user_data table
+df = pd.read_sql_query("""
+    SELECT 
+        user_id, 
+        purchased_products, 
+        browsed_products, 
+        preferred_price_range, 
+        age, 
+        time_spent_on_site, 
+        purchase_frequency, 
+        average_rating_given, 
+        review_sentiment_score, 
+        gender, 
+        location 
+    FROM user_data;
+""", engine)
+
+# Load products table
+product_titles_df = pd.read_sql_query("""
+    SELECT 
+        product_id, 
+        title, 
+        category, 
+        brand, 
+        price 
+    FROM products;
+""", engine)
 
 # Data Cleaning
 df.drop_duplicates(inplace=True)
-df.dropna(subset=["user_id", "purchased_products", "browsed_products", "preferred_price_range"], inplace=True)
 
-# Convert User_ID to string and strip spaces
+# Handle missing columns gracefully
+required_columns = ["user_id", "purchased_products", "browsed_products", "preferred_price_range"]
+missing_columns = [col for col in required_columns if col not in df.columns]
+if missing_columns:
+    raise KeyError(f"The following required columns are missing from the dataset: {missing_columns}")
+
+df.dropna(subset=required_columns, inplace=True)
+
+# Convert user_id to string and strip spaces
 df["user_id"] = df["user_id"].astype(str).str.strip()
 
 # Function to clean and extract numeric product IDs
@@ -25,7 +74,7 @@ def extract_product_ids(value):
 df["purchased_products"] = df["purchased_products"].apply(extract_product_ids)
 df["browsed_products"] = df["browsed_products"].apply(extract_product_ids)
 
-# Function to extract min and max values from Preferred_Price_Range
+# Function to extract min and max values from preferred_price_range
 def extract_price_range(price_range):
     try:
         min_price, max_price = eval(price_range)  # Convert string tuple to actual tuple
@@ -81,7 +130,7 @@ def get_product_details_with_explanations(user_id, product_ids, similar_users):
             if not explanation:
                 explanation = "Recommended based on your browsing and purchase history."
 
-            product["explanation"] = explanation
+            product["Explanation"] = explanation
             product_details.append(product)
 
     return product_details
